@@ -47,6 +47,7 @@ def populate_db():
             {"text": "Which instrument is used to measure atmospheric pressure?", "correct_answer": "Barometer"},
             {"text": "What is the most widely spoken language in the world?", "correct_answer": "Mandarin Chinese"},
             {"text": "What is the freezing point of water?", "correct_answer": "0°C"},
+            {"text": "What is the capital of France?", "correct_answer": "Paris"},
             {"text": "Who invented the telephone?", "correct_answer": "Alexander Graham Bell"},
             {"text": "What is the largest desert in the world?", "correct_answer": "Sahara"},
             {"text": "In what year did the Berlin Wall fall?", "correct_answer": "1989"},
